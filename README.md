@@ -15,7 +15,7 @@ npm install @jhedblom/javascript-utilities --save
 How to use:
 
 ```javascript
-require("javascript-utilities");
+require("@jhedblom/javascript-utilities");
 ```
 
 Run test:
