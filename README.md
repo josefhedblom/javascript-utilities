@@ -1,6 +1,6 @@
 # JavaScript Utilities
 
-A library of utilities for String, Array, Number and Date classes.
+Utilities methods for String, Array, Number and Date.
 
 ```javascript
 version: 1.0.0
