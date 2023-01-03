@@ -21,29 +21,29 @@ require("javascript-utilities");
 ## String methods
 
 ```javascript
-// Capitalize the first letter of a word.
+// Capitalize the first letter of one word.
 String.capitalizeFirstLetter();
 
 // Capitalize the first letter of each word.
 String.titleize();
 
-// Checks if the string is empty.
+// Checks if string is empty.
 String.isEmpty();
 
 // Finds string and extracts it.
 String.extractWord(str);
 
-// Amount of times to console.log
+// Print to console.
 String.print(num);
 ```
 
 ## Array methods
 
 ```javascript
-// Multiply elements with input value.
+// Multiply each element
 Array.times(num);
 
-// Sums up the total value of all elements
+// Sums the total value
 Array.sum();
 
 // Finds element and removes it
@@ -63,6 +63,9 @@ Array.shuffle();
 
 // Sorts elements alphabeticall
 Array.sortAlphabeticall();
+
+// Print to console.
+Array.print(num);
 ```
 
 ## Number methods
