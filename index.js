@@ -1,4 +1,4 @@
-require("./StringUtils");
-require("./ArrayUtils");
-require("./DateUtils");
-require("./NumberUtils");
+require("./Classes/StringUtils");
+require("./Classes/ArrayUtils");
+require("./Classes/DateUtils");
+require("./Classes/NumberUtils");
