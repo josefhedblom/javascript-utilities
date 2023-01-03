@@ -18,6 +18,12 @@ How to use:
 require("javascript-utilities");
 ```
 
+Run test:
+
+```javascript
+npm test
+```
+
 ## String methods
 
 ```javascript
