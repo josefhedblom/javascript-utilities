@@ -1,0 +1,23 @@
+{
+  "name": "@jhedblom/javascript-utilities",
+  "version": "1.0.0",
+  "description": "A library of utilities methods for String, Array, Number and Date classes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josefhedblom/javascript-utilities.git"
+  },
+  "keywords": [
+    "javascript",
+    "utilities"
+  ],
+  "author": "Josef Hedblom",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josefhedblom/javascript-utilities/issues"
+  },
+  "homepage": "https://github.com/josefhedblom/javascript-utilities#readme"
+}
